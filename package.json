@@ -64,5 +64,8 @@
     "selenium-webdriver": "^2.45.0",
     "sinon-chai": "2.8.0",
     "swagger-client": "2.1.32"
+  },
+  "dependencies": {
+    "swagger-ui-themes": "^2.1.0"
   }
 }
